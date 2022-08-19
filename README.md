@@ -1,19 +1,6 @@
-# lab-shell
+## Unix Shell Lab
 
-Repositorio para el esqueleto del [lab shell](https://fisop.github.io/7508/lab/shell) del curso Mendez-Fresia de **Sistemas Operativos (7508) - FIUBA**
+The purpose of this project is to develop the functionality that characterizes a shell command interpreter similar to those performed by bash, zsh, fish.
+This includes: $PATH search, background processes, commands, commands with arguments, built-in commands, redirections, errors display, simple and multiple pipes, environment variables, pesudo-variables.
 
-## Compilar y ejecutar
-
-```bash
-$ make run
-```
-
-## Respuestas teóricas
-
-Utilizar el archivo `shell.md` provisto en el repositorio
-
-## Linter
-
-```bash
-$ make format
-```
+This project was part of an assigment of the subject "Operating Systems", University of Buenos Aires.
